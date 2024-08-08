@@ -3,7 +3,7 @@
 ## Description
 4,001 People Single Object Multi-view Tracking Data, the data collection site includes indoor and outdoor scenes (such as supermarket, mall and community, etc.) , where each subject appeared in at least 7 cameras. The data diversity includes different ages, different time periods, different cameras, different human body orientations and postures, different collecting scenes. It can be used for computer vision tasks such as object detection and object tracking in multi-view scenes.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1231?source=Github
+For more details, please refer to the link:https://www.nexdata.ai/datasets/computervision/1231?source=Github
 
 
 ## Data size
